@@ -4,8 +4,9 @@ const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>🚀 hey there ! App working </h1>
-    <p>Version: <strong>1.0.0</strong></p>
+    <h1>🚀 hey there ! App working   </h1>
+    <h1>👋 made a change </h1>
+    <p> trying something new </p>
 
   `);
 });
