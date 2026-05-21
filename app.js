@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     <h1>Welcome to my-demo-app</h1>
     <h1>🚀 working   </h1>
     
-    <p> trying something new </p>
+    <p> trying something new  DAY 2</p>
 
   `);
 });
